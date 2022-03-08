@@ -1,5 +1,7 @@
 # Xtraores
 
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
+
 This is a repacked mod from _davidthecreator_ aka _daviddoesminetest_.
 * [Original Forum entry](https://forum.minetest.net/viewtopic.php?t=12798)
 * [Original Github repository](https://github.com/daviddoesminetest/Xtraores-)
